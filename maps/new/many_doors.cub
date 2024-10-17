@@ -1,0 +1,25 @@
+WE  textures/wall/cobblestone.xpm 
+NO  textures/wall/cracked_stone_bricks.xpm 
+SO  textures/wall/mossy_cobblestone.xpm 
+EA  textures/wall/mossy_stone_bricks.xpm 
+
+F   76, 78, 79
+C   135, 136, 138
+
+DO  textures/door/blast_furnace.xpm
+S   89 30 sprites/purple_rain/rain
+
+11111111111
+10000000001
+1000S000001
+10000000001
+10000000001
+10000000001
+1DDDDDDDDD1
+1DDDDDDDDD1
+1DDDDDDDDD1
+1DDDDDDDDD1
+10000000001
+10000000001
+10000000001
+11111111111
